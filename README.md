@@ -8,3 +8,7 @@ Requirements:
 - bash
 - curl
 - Java
+
+Usage:
+
+    ./download.sh
